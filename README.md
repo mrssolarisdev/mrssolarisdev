@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 Hello there!
 
-I am a Python software engineer and computer science graduate who is always looking for new challenges and opportunities to use my skills to create great things! I love what I do, so if I have the opportunity, I always give my best :star_struck:. I am a natural problem solver, insightful, self-taught, passionate, and have a burning passion for learning. I am also versatile and flexible, this is why I learn so many different technologies and tools so fast, and I am really proud of saying that!
+I am a Python software engineer and computer science graduate who is always looking for new challenges and opportunities to use my skills to create great things! I love what I do, so I always give my best :star_struck:. I am a natural problem solver, insightful, self-taught, passionate, and have a burning passion for learning. I am also versatile and flexible, this is why I learn so many different technologies and tools so fast, and I am really proud of saying that!
 
 Currently, now that I have graduated and have time to breathe, aside from working as a Python Software Engineer and being :smirk_cat: Yummi's (my cat) slave, I am working on a personal project called :person_in_tuxedo: "kovalsk-e", which I will use to manage my house, chores, finances, and other things. It is far from being complete, but I invite you to check it out and provide feedback on my Github repository. In addition, I am currently learning more about data visualization and data science using Python.
 
