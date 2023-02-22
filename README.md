@@ -25,5 +25,6 @@ Currently, now that I have graduated and have time to breathe, aside from workin
 
 As a person, I get along with people easily and have a good sense of humor. In my free time, I enjoy playing video games like Stardew Valley and Borderlands, as well as watching wildlife in their natural habitats. I have a soft spot for cats, but I love all animals and literally hate pistachios - they are my nemesis. Oh yeah and I also like cooking.
 
+Thank you for visiting my Github page, and please feel free to reach out to me if you have any questions or would like to collaborate on a project.
 
 :face_with_spiral_eyes: Fun fact: Did you know the tongue of a whale wheighs more than a fully grown hippopotamus?
